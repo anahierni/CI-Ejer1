@@ -11,7 +11,7 @@ package Entidad;
  */
 public class Rectangulo {
      private double base;
-    private double altura;
+    private double altura;{}}}}}{
 
     public Rectangulo() {
     }
